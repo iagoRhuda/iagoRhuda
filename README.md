@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Iago Rhudá ; )
 
-**iagoRhuda/iagoRhuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 Atualmente estudando Engenharia da Computação
 - 📫 Contate-me pelo email: contato.iagorhuda@gmail.com
 
