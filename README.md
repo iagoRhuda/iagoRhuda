@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🌱 Atualmente estudando Engenharia da Computação
-- 📫 Contate-me pelo email: iagorhudaramos@gmail.com
+- 📫 Contate-me pelo email: contato.iagorhuda@gmail.com
 
 <div align="center">
   <a href="https://github.com/iagoRhuda">
